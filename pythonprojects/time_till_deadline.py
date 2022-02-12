@@ -33,6 +33,6 @@ while user_input != "exit":
         print(f'Dear user time remaining for your goal: {goal} is {time_left_for_deadline}')
 
     else:
-        print("Deadline for goal can't be a value previous than current time")
+        print("Deadline for goal can't be value previous than current time")
 
 
